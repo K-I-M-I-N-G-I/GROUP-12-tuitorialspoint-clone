@@ -1,5 +1,5 @@
 # GROUP-12-tuitorialspoint-clone
-hello...this repo contains a clone of the DEEPSEEK homepage.
+hello...this repo contains a clone of the tuitorialspoint homepage.
 compiled by 3 members;
 # MEMBERS
 1.NAME   : DERICK KIMINGI
